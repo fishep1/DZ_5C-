@@ -2,7 +2,7 @@
 
 class ProgramNewArray //Создание класса 
 {
-    public static void Main (string[] array1) 
+    public static void Main (string[] array) 
     {
         int[] GenerateRandomArray(int size, int num1, int numEnd) // Метод для создания случайного массива размером size, в диапозоне от num1 до numEnd
         {
